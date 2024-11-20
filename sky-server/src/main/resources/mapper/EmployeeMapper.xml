@@ -20,28 +20,28 @@
                 name = #{name},
             </if>
             <if test="username != null">
-                name = #{username},
+                username = #{username},
             </if>
             <if test="password != null">
-                name = #{password},
+                password = #{password},
             </if>
             <if test="phone != null">
-                name = #{phone},
+                phone = #{phone},
             </if>
             <if test="sex != null">
-                name = #{sex},
+                sex = #{sex},
             </if>
             <if test="idNumber != null">
-                name = #{idNumber},
+                idNumber = #{idNumber},
             </if>
             <if test="updateTime != null">
-                name = #{updateTime},
+                updateTime = #{updateTime},
             </if>
             <if test="updateUser != null">
-                name = #{updateUser},
+                updateUser = #{updateUser},
             </if>
             <if test="status != null">
-                name = #{status},
+                status = #{status},
             </if>
         </set>
         where id = #{id}
