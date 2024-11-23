@@ -94,15 +94,13 @@ public class EmployeeServiceImpl implements EmployeeService {
         employeeMapper.insert(employee);//上述代码已经封装好了数据，现在调用持久层，放入实体对象
     }
 
+    @Override
     public PageResult pageQuery(EmployeePageQueryDTO employeePageQueryDTO){
         PageHelper.startPage(employeePageQueryDTO.getPage(),employeePageQueryDTO.getPageSize());
 
         Page<Employee> page = employeeMapper.pageQuery(employeePageQueryDTO);
 
-        long total = page.getTotal();
-        List<Employee> records = page.getResult();
-
-        return new PageResult(total, records);
+        return new PageResult(page.getTotal(), page.getResult());
     }
 
     @Override
