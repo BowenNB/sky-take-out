@@ -7,7 +7,7 @@ sky:
     username: root
     password: 19990420wenhao
   alioss:
-    endpoint:
-    access-key-id:
-    access-key-secret:
-    bucket-name:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tEfBQM1CJ34TdDfuzwj
+    access-key-secret: RzrIekjsWLUUaGXa8lt0LjbzR0Kds3
+    bucket-name: bowen-lab

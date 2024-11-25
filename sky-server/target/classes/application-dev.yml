@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 19990420wenhao
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tEfBQM1CJ34TdDfuzwj
+    access-key-secret: RzrIekjsWLUUaGXa8lt0LjbzR0Kds3
+    bucket-name: bowen-lab
