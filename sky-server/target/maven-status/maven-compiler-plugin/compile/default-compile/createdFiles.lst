@@ -1,6 +1,0 @@
-com\sky\mapper\DishMapper.class
-com\sky\mapper\CategoryMapper.class
-com\sky\controller\admin\CategoryController.class
-com\sky\service\impl\CategoryServiceImpl.class
-com\sky\service\CategoryService.class
-com\sky\mapper\SetmealMapper.class
