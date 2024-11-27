@@ -6,7 +6,7 @@
     <insert id="insertBatch">
         insert into dish_flavor (dish_id, name, value) values
         <foreach collection="flavors" item="df" separator=",">
-            (#{dishFlvor.dishId},#{dishFlavor.name},#{dishFlavor.value})
+            (#{dishFlavor.dishId},#{dishFlavor.name},#{dishFlavor.value})
         </foreach>
     </insert>
 </mapper>

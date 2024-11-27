@@ -3,8 +3,10 @@ package com.sky.mapper;
 import com.sky.annotation.AutoFill;
 import com.sky.dto.DishDTO;
 import com.sky.entity.Dish;
+
 import com.sky.enumeration.OperationType;
 import io.swagger.annotations.Authorization;
+import com.sky.entity.DishFlavor;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
