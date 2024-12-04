@@ -26,9 +26,10 @@ public class DishController {
 
     @Autowired
     private DishService dishService;
+
     @Qualifier("defaultServletHandlerMapping")
-    @Autowired
-    private HandlerMapping defaultServletHandlerMapping;
+//    @Autowired
+//    private HandlerMapping handlerMapping;
 
     @PostMapping
     @ApiOperation("新增菜品")
@@ -72,6 +73,11 @@ public class DishController {
         return Result.success(dishService.getByIdWithFlavor(id));
     }
 
+    /**
+     * 修改菜品
+     * @param dishDTO
+     * @return
+     */
     @PutMapping
     @ApiOperation("修改菜品")
     public Result update(@RequestBody DishDTO dishDTO) {
