@@ -113,7 +113,11 @@ public class DishServiceImpl implements DishService {
         return dishVO;
     }
 
-    @Override
+    /**
+     * 根据id修改菜品和关联的口味
+     * @param dishDTO
+     */
+    @Transactional
     public void updateWithFlavor(DishDTO dishDTO) {
         Dish dish = new Dish();
         BeanUtils.copyProperties(dishDTO, dish);
