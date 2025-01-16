@@ -1,0 +1,124 @@
+[33mcommit 6c6d65f5fcebea99ef1817eba8792f730e1605a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop_window[m[33m)[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 27 18:29:30 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit 727b1ccd54f4cc43abeb47e871d13dbe4cc03f25[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 27 17:49:20 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit 4cc489a7e87b98e52c5fdfe22fa213f8cbc46775[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 27 17:48:03 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit b59058267820ae30d10c815b4c1d4af10d533917[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Mon Nov 25 21:28:24 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit 0b91c8b466b9dd85897994940da532f3481a375c[m[33m ([m[1;31morigin/develop_window[m[33m)[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Sat Nov 23 17:44:18 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit 2331b6e7e0cd7cdafe5021f58d2191020e2fd4ec[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Thu Nov 21 22:04:25 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit 4b1fd65180f8cb5a31a4409688976e45f4e68270[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Thu Nov 21 22:02:14 2024 +0800
+
+    菜品管理任务的开发依赖文件
+
+[33mcommit ee2ef73a0402780a3e1eb3f1ced01074a5e1b9e5[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Thu Nov 21 16:29:23 2024 +0800
+
+    编辑员工业务代码开发
+
+[33mcommit ca1bbf1818d1a6b9c5ec49456df97915436fe937[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 20 21:24:26 2024 +0800
+
+    查询员工信息业务代码开发
+
+[33mcommit 8808c7d602100a2755cc7516901c0b87f01b4b8d[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 20 20:57:18 2024 +0800
+
+    员工启用禁用功能业务代码开发
+
+[33mcommit c7c33059e0bd3004e8cbc17d5626fe9c5568da27[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Wed Nov 20 20:17:53 2024 +0800
+
+    员工启用禁用功能业务代码开发
+
+[33mcommit 60bde162fcaf1d8bddd7ad6388720240d3574f48[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Tue Nov 19 22:34:33 2024 +0800
+
+    员工分页查询业务代码开发
+
+[33mcommit 5676d93901db8586da073ce053977f7f0d2fe0e8[m
+Merge: 93d7e86 3a7581a
+Author: BowenNB <2923591580@qq.com>
+Date:   Tue Nov 19 19:35:05 2024 +0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/develop_mac' into develop_window
+
+[33mcommit 3a7581a8795ed5f17c1375b5596b856189d2e5dc[m[33m ([m[1;31morigin/develop_mac[m[33m)[m
+Author: Bowen <18105622016@163.com>
+Date:   Mon Nov 18 21:24:35 2024 +0800
+
+    mach环境配置
+
+[33mcommit 93d7e869fbc333fddf58f8d118bc35e6482206f9[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Mon Nov 18 20:20:43 2024 +0800
+
+    分页查询
+
+[33mcommit 31d6abd244b458b5268bcfd98a9d529d2d22ada1[m
+Merge: 2638764 0473f4e
+Author: Bowen <18105622016@163.com>
+Date:   Sun Nov 17 00:16:05 2024 +0800
+
+    Merge remote-tracking branch 'origin/develop_window' into develop_mac
+    
+    # Conflicts:
+    #       sky-server/target/classes/application-dev.yml
+
+[33mcommit 26387649a32fa28b741291c9d380182eeea0af5c[m
+Author: Bowen <18105622016@163.com>
+Date:   Sun Nov 17 00:13:04 2024 +0800
+
+    mach环境配置
+
+[33mcommit 0473f4e1f3087c8278c420742e4839358bf83081[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Sat Nov 16 16:29:20 2024 +0800
+
+    苍穹外卖项目初始代码
+
+[33mcommit 3863baac1f155e4507de3bdcf9e40caafd540047[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Sat Nov 16 16:28:08 2024 +0800
+
+    苍穹外卖项目初始代码
+
+[33mcommit eba22445ce21755ff6a418d6c5a6552f0900e91f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: BowenNB <2923591580@qq.com>
+Date:   Sat Nov 2 18:13:16 2024 +0800
+
+    苍穹外卖项目初始代码
