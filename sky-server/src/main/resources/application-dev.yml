@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tEfBQM1CJ34TdDfuzwj
     access-key-secret: RzrIekjsWLUUaGXa8lt0LjbzR0Kds3
     bucket-name: bowen-lab
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10
